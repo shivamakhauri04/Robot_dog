@@ -1,6 +1,9 @@
 # Robot_dog
 
-Steps to run the code
+# Demo
+![](dog_walk.png)
+
+# Steps to run the code
 1. git clone the repo 
 2. Install python
 3. pip install pybullet
