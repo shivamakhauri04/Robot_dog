@@ -1,4 +1,5 @@
 # Robot_dog
+Includes a python code to model the walking gaits of a robotic  dog as well as its climbing up the hill on pybullet simulator.
 
 # Demo
 ![](dog_walk.png)
